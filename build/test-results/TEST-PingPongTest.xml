@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PingPongTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2015-08-10T20:52:54" hostname="epicodus-108.local" time="0.002">
+  <properties/>
+  <testcase name="pingPongFor_fifteen" classname="PingPongTest" time="0.001"/>
+  <testcase name="pingPongFor_one" classname="PingPongTest" time="0.0"/>
+  <testcase name="pingPongFor_two" classname="PingPongTest" time="0.0"/>
+  <testcase name="pingPongFor_three" classname="PingPongTest" time="0.0"/>
+  <testcase name="pingPongFor_five" classname="PingPongTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

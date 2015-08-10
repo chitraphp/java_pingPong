@@ -1,0 +1,24 @@
+1. It displays "1" if the number entered is "1"
+input: 1
+output:1
+
+2.it displays from 1 to upto entered number
+input: 2
+output:1,2
+
+3.it displays ping for multiples of 3
+input:3
+output:1,2,ping
+
+4.it displays ping for multiples of 3
+input:6
+output:1,2,ping,4,5,ping
+
+
+5.it displays pong for multiples of 5
+input:5
+output:1,2,ping,4,pong
+
+6.it displays ping-pong for multiples of 3 and 5
+input:15
+output:1,2,ping,4,pong,ping,7,8,ping,pong,11,ping,13,14,ping-pong
